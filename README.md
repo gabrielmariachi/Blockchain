@@ -1,2 +1,2 @@
 # Blockchain
-Blockchain in Python
+Blockchain structure and the block mining
